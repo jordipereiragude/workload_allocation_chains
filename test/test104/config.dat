@@ -1,0 +1,26 @@
+Start: qui 28 abr 2022 10:42:56 UTC
+Status: Ok
+Description: CBFS[mp=32K], set wapIII, cbfsF
+Parallel options:  -j 8
+Options: -j 8 -i wapIII 104 CBFS[mp=32K], set wapIII, cbfsF --heuristic cbfs --maxpasses 32000 --exact cbfsF --initial seg --lb3w 3 --sadpMem 50000000 --timelimit 3600
+Test number: 104 
+GIT revision: d71a5fb4d30e37b20e4ac0388a16b35b3d2475c0
+hostname: leviathan
+Process limits:
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 127672
+max locked memory       (kbytes, -l) 65536
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 1024
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) 8192
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 127672
+virtual memory          (kbytes, -v) 16444698
+file locks                      (-x) unlimited
+Stop: qui 28 abr 2022 13:14:16 UTC

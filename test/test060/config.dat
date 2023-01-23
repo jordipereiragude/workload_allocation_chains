@@ -1,0 +1,26 @@
+Start: qua 20 abr 2022 20:43:50 UTC
+Status: Ok
+Description: Lower bounds up to 12 workers, improved output.
+Parallel options: 
+Options: 60 Lower bounds up to 12 workers, improved output. --onlylb --lb3w 12 --showlb3
+Test number: 060 
+GIT revision: dc883b4c17396e28c14cef868330fcb400934f34
+hostname: leviathan
+Process limits:
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 127672
+max locked memory       (kbytes, -l) 65536
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 1024
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) 8192
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 127672
+virtual memory          (kbytes, -v) 16444700
+file locks                      (-x) unlimited
+Stop: qua 20 abr 2022 21:13:16 UTC

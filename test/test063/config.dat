@@ -1,0 +1,26 @@
+Start: qui 21 abr 2022 20:56:39 UTC
+Status: Ok
+Description: Test ILS (t=120,p=8).
+Parallel options:  -j 8
+Options: -t 120 -j 8 63 Test ILS (t=120,p=8). --ini ils
+Test number: 063 
+GIT revision: 87c9b5a10c4afa223e2f36874e5fb17a072ecf30
+hostname: leviathan
+Process limits:
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 127672
+max locked memory       (kbytes, -l) 65536
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 1024
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) 8192
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 127672
+virtual memory          (kbytes, -v) 16444700
+file locks                      (-x) unlimited
+Stop: qui 21 abr 2022 21:46:40 UTC

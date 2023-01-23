@@ -1,0 +1,26 @@
+Start: sáb 23 abr 2022 17:04:59 UTC
+Status: Ok
+Description: BS[bms=3200], set wapI.
+Parallel options:  -j 8
+Options: -j 8 -i wapI 90 BS[mbs=3200], set wapI. --heuristic bs --bsmax 3200 --exact sadpF --initial seg --lb3w 0
+Test number: 090 
+GIT revision: 7311d9553998c338eaefb1ad9cd9ffafdb470836
+hostname: leviathan
+Process limits:
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 127672
+max locked memory       (kbytes, -l) 65536
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 1024
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) 8192
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 127672
+virtual memory          (kbytes, -v) 16444700
+file locks                      (-x) unlimited
+Stop: sáb 23 abr 2022 17:05:06 UTC
